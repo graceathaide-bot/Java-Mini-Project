@@ -18,14 +18,15 @@ This project was developed as a **Java Mini Project** to apply concepts of objec
 
 ## ✨ Features
 
-- 🎮 Paddle movement using keyboard controls
-- ⚽ Ball movement and bouncing
-- 🧱 Brick-breaking mechanics
+- 🏠 Interactive homepage
+- 📋 Main menu
+- 🎮 Paddle and ball controls
+- 🧱 Brick-breaking gameplay
+- 🎯 Five different levels
+- 📈 Increasing difficulty across levels
 - 💯 Score tracking
-- ❤️ Lives / game-over functionality
-- 🏆 Win condition after breaking all bricks
+- 🏆 Level completion and win conditions
 - 🖥️ Graphical user interface
-- 🔄 Restart / replay functionality
 
 ---
 
